@@ -9,13 +9,7 @@ This project is an interactive web application designed to visualize the **Job S
 
 The tool was created to bridge the gap between theoretical algorithm concepts and practical visualization, allowing users to define their own job datasets and watch the algorithm solve the problem step-by-step.
 
-## 👥 Contributors (Team Members)
-* **O64**
-* **O65**
-* **O66**
-* **O86**
 
----
 
 ## 🚀 Features
 
